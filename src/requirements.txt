@@ -1,0 +1,10 @@
+auto_mix_prep==0.2.0
+matplotlib==3.10.1
+networkx==3.4.2
+numpy==2.2.4
+pandas==2.2.3
+python_sat==1.8.dev13
+qclib==0.1.12
+qiskit==1.2.4
+qiskit_aer==0.14.0.1
+scipy==1.15.2
