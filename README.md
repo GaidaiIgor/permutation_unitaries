@@ -24,3 +24,5 @@ Specifically, the main contributions are
     - Implemented by `QiskitDenseGenerator` class.
 
 See `run_prepare_state` function for an entry point and an example of how to use these classes.
+
+The corresponding publication is available at https://arxiv.org/abs/2504.08705
